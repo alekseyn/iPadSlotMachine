@@ -13,7 +13,7 @@
 
 ApplicationDelegate *DELEGATE;
 
-#define HANDLE_AS_MASTER NO
+#define HANDLE_AS_MASTER YES
 
 // connection timeouts
 #define TIMEOUT 60
